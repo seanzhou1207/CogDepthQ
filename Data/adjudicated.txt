@@ -1,0 +1,500 @@
+0	adjudicated	2	When do you expect Minnesota rates to kick in?
+1	adjudicated	2	What's the reason that you think that there might be a deterioration in EBITDA margin?
+2	adjudicated	1	Is there a target for coverage?
+3	adjudicated	2	Is the market that strong or are you gaining market share in that region?
+4	adjudicated	3	Given the changes in the biosimilar competitive environment since your business review day, do you view this opportunity as bigger than you guided to at that point?
+5	adjudicated	4	You said it was a mix between 3D tomo and Panther pull-through. Can you talk about the mix between both of those back, forward, and how is that going to impact 2014 and how we think about guidance going there?
+6	adjudicated	2	You brought down the guidance for comps in Q2 and Q3, could you talk about your thoughts behind doing that?
+7	adjudicated	3	Do you think, as you look forward, that you would grow on-par with overall square footage growth for the flooring category, or would you be plus or minus that?
+8	adjudicated	1	So is it a safe assumption to say that you've more than hit your target of 40 new products that generate over $1 million in sales?
+9	adjudicated	2	Can you update us on your mature field strategy, the opportunities you are seeing in this market?
+10	adjudicated	3	Since part of it involves a pipeline conversion, I was just wondering if this line was previously out of service before or if we should expect a decline in refined products volumes, as well?
+11	adjudicated	2	But would you say that the recent growth rate there is a good proxy for the go forward run rate, where it seems to be growing faster than some of your other expense line items and growing faster than revenue?
+12	adjudicated	1	Could you talk a little bit about the competitive landscape for some of your products that serve the B2B lending landscape, like commercial credit scores, business failure scores, et cetera? Are you seeing any share gains?
+13	adjudicated	2	Could you specifically quantify the weakness of the Star Wars launch relative to your expectations or at least kind of qualitatively was it materially below what you were expecting or just slightly below what you were expecting?
+14	adjudicated	4	Maybe you can just talk about why do you think the transaction market has been relatively quite ablated by the seller or buyer issue, waiting on playing the cycle a little bit longer before putting more stuff out for sale?
+15	adjudicated	1	As you look out your CapEx over the next few years, does that ratio of bleach and HCL get much higher?
+16	adjudicated	3	Do you expect operating profit in sweeteners to hold steady in 2014 given the fructose pricing?
+17	adjudicated	2	Could you guys expand on the sequential improvement in orders? Was most of it being driven by improvement from the OEMs? Or is it more distribution?
+18	adjudicated	3	Can you just review for us where silicone hydrogel daily as a category is today just from a market standpoint? And where do you think it can go over time?
+19	adjudicated	1	Is that coming from large incumbents or are you able to take over share from some smaller players, and help consolidate both electronics and seating?
+20	adjudicated	3	What do you think is going on right now as we report to you and volatility in energy prices? I mean, do you expect to see significant inventory destocking taking place?
+21	adjudicated	2	Should we think of the March quarter pace of repurchases as being something you would like to sustain or is it perhaps more likely that we would see a slowdown or pause from here versus that pace?
+22	adjudicated	2	Okay. Yet -- but that being said, you're still comfortable with the new guidance that you gave today?
+23	adjudicated	1	I'm just wondering how far out you guys generally plan for, three, five, eight, ten years?
+24	adjudicated	2	How do you locked in the liquid bitumin-- liquid asphalt cost for the rest of the year or you're still at vaguaries of what that price does?
+25	adjudicated	4	Now that you've sold the Refinery and the E&P business, how do you think about MDU's overall exposure to oil prices, whether it be the Construction businesses, Utility customer growth, Midstream?
+26	adjudicated	3	What do you expect there for 2015 and do you have any visibility to that showing some growth next year or this year?
+27	adjudicated	1	I am just curious if you are seeing any sort of like noticeable decline in bookings to Latin or Caribbean markets, anything on that front would be fine?
+28	adjudicated	4	How does the math work when you are basically increasing your tonnes by 60% but the production is only going up by 15% or 20% what am I missing?
+29	adjudicated	3	But are you, conceptually are you thinking that you would maintain some level of ownership in that company or you think you are spinning the whole entity in to a new standalone company?
+30	adjudicated	4	Specifically any color on how industry pricing has been impacted, the prospects for future consolidation or just how competitors maybe thinking about fleet growth going forward?
+31	adjudicated	2	Could you just give us a little bit more color on Gulfstream? Because from our vantage point, I don't know of anything that's going down.
+32	adjudicated	3	As Digital impressions deliver ever increasing targeting do you anticipate increased digital CPMs and can you comment on how this might insulate revenue at legacy media like the newspapers?
+33	adjudicated	4	So, I wouldn't think there'd be a whole lot of risk at the downside, but given your confidence, just wondering where you guys could see the different leverage moving that could create numbers outside that range?
+34	adjudicated	2	Can you just talk a little further about how digital and print ad revenue did in the month of July, year-over-year? Can you quantify it for us, if you would?
+35	adjudicated	1	Cellular maybe 20% or so this year, so, is there any consideration down the road of revisiting potentially collapsing the corporate structure and revisiting buying in the minority?
+36	adjudicated	3	If I'm thinking about the weather being somewhat troublesome for sales in the fourth quarter, shouldn't there also be a net benefit to working capital for the first quarter, just maybe not having to replace inventory whether it's fluids or batteries, things of that nature?
+37	adjudicated	2	And then on the Mississippi Lime, it sounds like you are going to have that on towards the end of the year or early next year, just curious with the ramp in volumes is likely to look like?
+38	adjudicated	3	Can you just talk about maybe where you see some of the internal initiatives driving that margin expansion, what type of level we could expect going forward? I mean, is this a business that can be a low-teens margin business?
+39	adjudicated	2	But is there any way that you could quantify what you're seeing in terms of pricing dynamics?
+40	adjudicated	3	So is this now more of a sustainably growing business x currency? And now what's the outlook towards both organic growth internationally longer term and potential acquisitions?
+41	adjudicated	2	Is that fair, though, the earlier supposition that you guys are destocking internally to go along with what your customers are doing? So, I guess, should we look at that performance as even kind of better versus the absorption headwind?
+42	adjudicated	3	But given where interest rates are now, I imagine the underfunded position comes down quite a bit, does that mean that you have less cash outflow in the next couple of years and we could actually -- you'll see nice free cash flow growth just on the back of that going forward?
+43	adjudicated	4	Can you give sense of the competitiveness on new deals and also how you’re sourcing these deals if their auctions are broker transactions, any of your proprietary source or off market?
+44	adjudicated	3	Just for future acquisitions, do you think they'll be more like a 40% gross margin like Capella or more of your traditional margin structure in there?
+45	adjudicated	2	And you mentioned the margins were low just a quick clarify this, how much if we would talk about the revenue requirement associated with these stations is being covered by customers versus what quote, unquote the marketplace would be theoretically covering? Do you have a rough breakdown of that?
+46	adjudicated	2	And then, could you touch on just the ability to kind of flex it up or down if you see an opportunity that may be drive sales with something or maybe to pullback if it’s unnecessary to drive more profit?
+47	adjudicated	1	Can you tell us what the earned ROE for the last 12 months is and the last surveillance reporting date was for your jurisdiction?
+48	adjudicated	2	Did you say that they were up, are they up over the prior quarter or over the prior year and could you maybe tell us whether there is a change in the size of the tractor that's in your order boards there?
+49	adjudicated	3	What's the right target to think about that going forward? Is the fourth quarter run rate a pretty clean number for us to use? Or would you expect that to show some lift as you open more communities?
+50	adjudicated	2	I do want to dig into the incremental rental margins just for the 45% in the quarter can you maybe just help us understand what the weather impact may have been or the reposition expense or even if you guys had to face some sizable fleet repair expenses, fix up some of these units that are coming out of the shale plays?
+51	adjudicated	4	On hep C, can you outline the development plan for the Idenix nuc and when we should next see data on this asset? Then perhaps, while we are on the nuc, can you remind us of what gave you comfort to acquire this, in light of the turbulent history with that class?
+52	adjudicated	3	When do you expect those to start to materialize in that the significant way that you might start seeing again a pickup in outperformings in the Supply and Logistics segment?
+53	adjudicated	2	In terms of I guess using a baseball analogy, what inning are you guys internally in kind of thinking about this? Is this just kind of conceptual stages? Or have you actually talked to some outside advisers on these?
+54	adjudicated	4	Any thoughts on Lidl and Wegmans entering into the North Carolina market? Do you view that as a sizable threat?
+55	adjudicated	3	What I'm asking is, do you need to, as you grow your parts availability and your frequencies of delivery, add more sales in order to sort of educate and get that message out there?
+56	adjudicated	4	What is causing it to be lower sequentially if trends are getting much better?
+57	adjudicated	2	Is that something that is still progressing? Or is it more at this point, let's get the first one locked up under construction, and then we'll, perhaps, assess a twinning at that point?
+58	adjudicated	2	Wondering if you can help us or just share what that cost savings contribution was in the first quarter? Where are we, with respect to that $1 billion goal?
+59	adjudicated	3	And I’m just wondering, the variability of cost and labor and some of the other things, what does margin look like in the 3% to 5% comp versus a 7% to 9% comp?
+60	adjudicated	4	So can you quantify that this dovetails what you were just talking about and if you can quantify what the impact might be on your capital plan if you were therefore necessitated to pick up your pro rata share of the capacity shortfall?
+61	adjudicated	2	With the exits or product lines or rationalization that's underway, the Endicia planned divestiture, the Calphalon retail shutting down and then the acquisitions, where do you feel like you are in terms of reshaping that portfolio to what you want it to look like?
+62	adjudicated	3	Can you just comment on how you expect that transition to affect Corning, especially with some of your competitors moving some of their manufacturing base to China
+63	adjudicated	2	Maybe what gives you that confidence? I am assuming your studies are not, perhaps, even nearing completion, you talked about it being delivered by the first half and so maybe if you could give us a bit more color there, if you don’t mind, unless we have to wait for the study?
+64	adjudicated	3	So I guess what I want to ask you is, do you think this provides an opportunity to guys get more value from the customers in terms of pricing? And if so, what type of timeframe would it take to see that come in?
+65	adjudicated	3	And just last briefly remind us on the flash FreeStyle, how big the opportunity is, I know the market is huge, how big an opportunity how big a product could this be? And remind us about the US approval and launch times thanks so much?
+66	adjudicated	2	Are you suggesting or setting us to expect that each of those groups of processes including the innings four to six to follow on tools, is that from a duration standpoint?
+67	adjudicated	2	When you look at the Family Dollar stores that have been selected for conversions, how would you characterize the quality of their locations by Dollar Tree standards?
+68	adjudicated	3	And the follow-up is, middle of last year there was plan to get to investment grade by middle of ’16 maybe late ‘16 how has that plan changed with the commodity coming down now?
+69	adjudicated	3	So could you spend some time talking about where those reductions are coming from and how we should think about the trend, not just this year but going forward?
+70	adjudicated	3	So, if you go back a year to the fourth quarter of 2014, what percentage of those bookings were done for 2015 versus all future periods? In other words, is it really higher occupancy that’s going to hurt you going into the fourth quarter this year, or how do we think about all future periods?
+71	adjudicated	2	So is it safe to say that it's almost certainly a go; it's just a matter of size now?
+72	adjudicated	3	If you start to execute on more of this stuff, how should we think about financing and what kind of metrics you want to be at? Would you need any equity if you hit all this stuff?
+73	adjudicated	2	When you say begin the roll out, do I take that to mean some will be out by the end of the year but not all?
+74	adjudicated	4	I'm just surprised that 10% of sales will be this much of a drag? Or if there was something else in the other businesses, just a timing issue or something from the quarter?
+75	adjudicated	4	So what do you think the retailers are thinking, are they putting off taking deliveries and do that increase the risk in the fourth quarter?
+76	adjudicated	4	For the theater acquisition in the second quarter, what was the cap rate? And can you give us an update on what you’re seeing in terms of the acquisition environment, what’s in you pipeline and the competition you are seeing?
+77	adjudicated	2	Can you maybe talk about where the breakpoints have been in conversations and what is it that's holding things up? Or is it just that the pipeline didn't pick up until 3 or 4 months ago, and it takes longer than that to make something happen?
+78	adjudicated	3	So, on that theme of growth, you obviously have some specific items that directly work against you and are pretty significant in size and scale that will probably preclude you from having organic growth for the next couple of years, I'd imagine, do you not see that being the case?
+79	adjudicated	3	I guess hypothetically if we were to assume that given your relationships with all three companies, that if you are able to continue manufacturing those devices, would you foresee any changes in pricing as it relates to the deal?
+80	adjudicated	3	There was a merger there, and I believe they’re still in the process of closing and integrating, obviously, but I’m wondering if that acquisition changes anything on the vascular front for you guys, and if you’re seeing anything different out there?
+81	adjudicated	1	Is that fairly balanced between the cost side of equation and day rates including Lower?
+82	adjudicated	2	As a leading indicator, though, are you seeing any interest from your customers on the Well Service side, or Production Services side or still not even there yet?
+83	adjudicated	2	Is this part of the result that we're seeing in terms of both better revenue in TS in the quarter driven by the Americas and also the better-than-seasonal outlook as well?
+84	adjudicated	2	But when can we read through on that in terms of your demand? I mean obviously if prices are going up because coal tar demand is going up, is that a positive for you guys, outside of the cost inflation?
+85	adjudicated	2	So you would expect second -- I know the June quarter to see a benefit from weather -- the weather essentially delaying some activity into the June quarter?
+86	adjudicated	2	Maybe you could just kind of walk us through your thought process there and your desire to slow that down, are your current inventory tests and field tests and delivery tests part of this?
+87	adjudicated	1	Is this more like a $100 million-type transaction or a $300 million or $500 million-type transaction?
+88	adjudicated	1	Can you give us a sense on how much your export rates are down?
+89	adjudicated	3	Can you just help us then where does that channel fit from a profitability perspective relative to the balance of your business?
+90	adjudicated	2	And just in terms of this refinancing, given the size of your cash balance, why not just pay down the debt outright?
+91	adjudicated	4	Could I ask about how you're seeing the category promotional dynamics in cereals changing?
+92	adjudicated	3	I know it's a function of commodity prices, but do you guys expect to use the 3x debt to EBITDA sort of a throttle such that we would either have to look at slowing activity or doing more asset sales in terms to keep the leverage below that ratio?
+93	adjudicated	4	Are you setting the bar that high because of the expense or could you shed some more light on what you think about your PCSK9 inhibitor base and what you've seen to date, and what's sort of the go, no go decision it will be based upon?
+94	adjudicated	4	So can you maybe reflect on the changes that you've made into the organization, the opportunities that you have here, and maybe is it just a matter of having to wait another year to see that margin improvement pull through?
+95	adjudicated	3	If that market took off, would you consider developing your own spark-ignited 13-liter?
+96	adjudicated	4	First, can you tell us about the impact of Brazil on your working capital and seasonality? I know there's never going to be any such thing as normal in Brazil, but you must have thought something about it as you decided to expand your system?
+97	adjudicated	3	And do you anticipate any problems with existing regulatory lag, which you're working very hard to reduce?
+98	adjudicated	4	What gives you confidence that telecom isn't going to look like hotel/motel, where that category kind of went down and sort of went the smartphone way and didn't need outdoor anymore?
+99	adjudicated	3	In terms of cervical cancer overall, I mean, as you look down the road, do you view this as a growing product area for you?
+100	adjudicated	3	Can you just talk about what you're seeing that gives you the confidence to move on that, and I think you talked about expecting activity from all four players, so perhaps you can just go through what's going on there?
+101	adjudicated	4	And then separately, how do you think about raw material inflation across the businesses in '14 versus '13?
+102	adjudicated	3	Are you seeing the OEMs requiring that on new product development, that they own the IP, such that they get a bigger piece of the aftermarket going forward for new parts? Have you seen any of that pressure?
+103	adjudicated	4	What are they doing, what are their thoughts in terms of future wind development given the current tax situation?
+104	adjudicated	3	So, should we expect restructuring cost to decline materially in 2017?
+105	adjudicated	4	I guess as we think about WIL now being closed, how does it I am not asking you to provide specific details but maybe more directionally how do you relay that to those goals and where you will likely to be tracking as we hear from you next at the upcoming Analyst Day?
+106	adjudicated	2	Can you talk a little bit about the benefits that came through this quarter?
+107	adjudicated	1	Were those numbers for the current December quarter we are in?
+108	adjudicated	1	That's a year-over-year example though, right?
+109	adjudicated	2	If you're thinking that you'd do one or both, what should we be thinking about there?
+110	adjudicated	1	Is there a product line or specific or is it just more of a regional function where you're seeing the growth?
+111	adjudicated	1	With laser pipeline starting up, is all of your Marcellus shut-in production essentially online now? Or where are we at within that space?
+112	adjudicated	3	Can you just maybe provide a little color there and then just give us your expectations in 2013 on margins for that business?
+113	adjudicated	1	Did you disclose what the amount of the RDM true-up of MichCon was in the second quarter? Or could you, if you didn't?
+114	adjudicated	1	Do you see 2015 as the peak margin?
+115	adjudicated	3	And that obviously could increase as well as more capital's deployed in those areas? Is that correct?
+116	adjudicated	2	I understand that 4% range we are hoping to do with wholesale growth and cost control and the 7% range we are hoping to do it with accretive acquisitions, but I wonder if you just might give more color on how you close that gap?
+117	adjudicated	3	Do you expect to sell more or less than last year? Is there any way you can kind of guide us there, please?
+118	adjudicated	2	So is there anything in there that I might have missed in terms of guidance for FX?
+119	adjudicated	3	Again, just coming back to an earlier question around MyDay, is there a scenario where you might decide to step that up a little bit to, again, improve your ability to supply MyDay?
+120	adjudicated	2	Is that just more administrative to put that out there, or is there something I should read into it?
+121	adjudicated	3	So on Slide 21, where you show the contracted and uncontracted capacity, should we assume that as you roll forward in time, you'll contract that uncontracted capacity?
+122	adjudicated	2	On the other hand, we are not in any way anticipating or forecasting in a major problem, so is the balance right now more on reinvestment and refinement of the network?
+123	adjudicated	4	So what do you see at this point? This is probably at the bottom end of the kind of option range in terms of additional no additional Siding capacity?
+124	adjudicated	1	Is the marginal cardholder of similar credit quality characteristics and the applicant to card approval rate similar as well?
+125	adjudicated	3	And any -- are you anticipating any impact on the Oilseeds business on the back of the PED virus?
+126	adjudicated	3	Have you seen that at all have an impact or discussions with retailers? Or has it really been more weather and timing of tax refunds?
+127	adjudicated	1	I don't remember now how much they were down, but it's 5%, 6%, 7% down?
+128	adjudicated	1	Are you guys hedging your bets a little bit?
+129	adjudicated	4	And did you see an extra selling day in the quarter from the leap day? And if so, can you talk about the impact that, that had on the various growth rates for your divisions?
+130	adjudicated	2	So the overall Asian paints business being down last quarter in volumes, I assume that was areas outside of China that were weak or how do I?
+131	adjudicated	2	So if I can first, am I missing anything big in terms of the drivers? You talked about, I think lapping high promo expenses, benefits in cost savings, the least amount of inflation in the year, anything large that I am missing there?
+132	adjudicated	3	So just as the housing market at large I think in general has been below expectations as people coming into the year has that impacted you know how much land you're willing to spend on this year?
+133	adjudicated	4	Obviously you have a tougher quarter here, particularly on the transmission side in the third quarter, could you just maybe speak a little bit there to backlog but also levels of bidding activity you have seen here recently and what your level of confidence is going into 2016 in that category?
+134	adjudicated	3	What's the full-year expectation and how much of that can you gain back, if you will, in 2016, just in terms of the disruption costs?
+135	adjudicated	4	Why accelerate or push the growth in this environment when, historically, your shares have been given an equal recognition for debt-adjusted growth; in other words, the shoring of the balance sheet, the strength of the balance sheet and so on, as opposed to growing the top line? How are you guys reconciling that? Why not wait a year and then push the growth once things sort themselves out from a commodity standpoint?
+136	adjudicated	2	As we think about maybe just the guidelines and timing of guidelines around EMPA-REG, can you just update us on which guidelines are the most important?
+137	adjudicated	2	I was wondering if you could talk about where the technology in your established international ticketing business stands relative to domestic?
+138	adjudicated	3	But it's not a situation where if FERC rules against them, they don't -- they come after you or anything like that?
+139	adjudicated	3	And then is the -- the deadline for this interoperability is 2016 and is that aside from Riyadh in the tolling business, are we seeing that influence or have we seen it or should it accelerate when it comes to TransCore?
+140	adjudicated	3	But looking beyond the lower, sort of Q1 fixed cost allocations and what already know about dairy prices, to what extent does that lower gross margin outlook also reflect of you that the competitive and the promotional environment could be sustainably a bit more intense than you originally envisioned?
+141	adjudicated	3	And then you did mention in your formal comments some of the things that the private equity sponsor had done to improve that business in Europe, just wondering if that improvement was more a function of productivity and cost outs or do they also grow the business, you could talk about maybe the growth trends for Mactac Europe in the last couple of years and how it looks going forward based on your due diligence?
+142	adjudicated	2	Do you need more of the other -- the incremental stuff to further firm that up or are we -- are you kind of already now into filling the white space?
+143	adjudicated	4	Do you have any general comments or your own view on whether there is a way out, a more structural fix or how things are going to go?
+144	adjudicated	4	Can you talk about your completions contract and the strategy for keeping them busy? Do those contracts roll? Or are they longer term?
+145	adjudicated	1	To put it in context, just like you said on that slide, are these the right numbers?
+146	adjudicated	3	So in the sense that you're uncollectible tracker, was set -- it was moved in the base rates and it was set on 2011 test year or whatever you filed for the tracker, given that sales have come down, is that concerning at all?
+147	adjudicated	3	When you look at the market dynamic going into next year, do you think the risk related to ROV revenue generation is still more utilization?
+148	adjudicated	3	Are you seeing any strength in the specialties category? Or is it mainly in just everyday dental products?
+149	adjudicated	1	I guess, am I reading that correctly, number one? And then number two, maybe the tax and interest assumptions, if you could share those that you've embedded?
+150	adjudicated	3	What will be the impact on the gross margins, I guess on a quarterly basis maybe this year and next year with the higher CapEx and could you just give us what the overall utilization rates of the separate areas of your equipment was?
+151	adjudicated	4	So is there change in strategy? Is there the potential, given again the strong demand for your product for perhaps more aggressive pricing to really further your premium image and get back to some of the price gaps of 10 years or so ago?
+152	adjudicated	1	The other question I had was on Indonesia and there some reports have indicated recently that you guys have agreed to a transition from a COW to a special mining license and I guess first of these reports accurate?
+153	adjudicated	3	Just to begin, I want to know if - just to dig a little bit deeper on the guidance, can you -- when you're looking at your H2 outlook, how dependent are you on new programs versus -- excuse me, for the calendar second half -- how dependent are you on these programs versus better market demand? And are you counting on any programs that you have yet to win for the optimistic view that you have for the second?
+154	adjudicated	1	You kind of land positions and kind of A, B, C, D locations and Ara, you mentioned in the prepared remarks about how you were significantly bigger in a similar geographic footprint?
+155	adjudicated	2	We know they kind of come in and come out of favor so what markets are really driving group demand these days?
+156	adjudicated	3	The volume improvement, will it be specific to flexible, or composite, or blow molded? I mean, where are you expecting much of that growth to come from, or is it broad-based?
+157	adjudicated	3	But more broadly, are you maybe disappointed with the pace of improvement in rate and margins in the business overall?
+158	adjudicated	4	And I used that in my comments as it relates to PSol, and that is, where does the regulatory landscape, how does it evolves over the coming years?
+159	adjudicated	2	But do you think you're back on track on that?
+160	adjudicated	2	Any other factors that you may be able to help us with including maybe if you think you're taking any market share as well?
+161	adjudicated	1	And so when you get into it do we see a maturation of say 16 ounce?
+162	adjudicated	3	Is that really the main swing factors or is there anything else we should be thinking about from a sensitivity standpoint?
+163	adjudicated	2	Is it possible to try to bracket how much of that was due to the bad weather that we had?
+164	adjudicated	4	What gave you the confidence to move into Phase 3 because this is obviously transformative to the HIV business once you combine it with TAF?
+165	adjudicated	2	It clearly sounds like you have got some, the orders you were waiting for on the Airborne side and I am just curious, were you guys expecting those orders to come in when you laid out your initial guidance?
+166	adjudicated	3	And then your company, banana volumes have been moving higher, has any of this weather affected you recently, whereby your company volume growth could take a little bit of a hit in Q3?
+167	adjudicated	4	So with pros and cons, what prompt you to actually make the decision to increase CapEx instead of maybe walk away from some of the business?
+168	adjudicated	2	I guess, kind of going back to the first question is on mobile, twofold on devices, am I correct, is it solely content gains which give you the bullish view on the second half of the year versus a better volume outlook for the device market?
+169	adjudicated	2	And so my question is now that we look at the range, just kind of thinking about a number, more towards the bottom of the range, more realistic, giving kind of some of the onetime impacts that happened in the first quarter, which you really won't be able to recover as the year progresses?
+170	adjudicated	2	The gas monetization in Q4, could you quantify that?
+171	adjudicated	1	Do you have an exact timing of that? And will you make a press release or should we be looking for Fed Biz Ops to make some kind of an announcement?
+172	adjudicated	3	Just wanted to see at this if you're comfortable on giving a little more color on those plans and then what that could imply for CapEx here in 2016?
+173	adjudicated	2	What states you're watching and what states may be you're most hopeful or even optimistic in? Specifically maybe your thoughts on Tennessee, Virginia and Florida?
+174	adjudicated	3	So SG&A is actually going to go back up again in absolute dollars in the second half of this year?
+175	adjudicated	3	Now, do we think that if we take a look at a cradle to grave perspective of their total dollars to spend, do we think if we can talk a look at that, we can save them expenditures in terms of reach and effectiveness?
+176	adjudicated	4	Can you give us a quick feel for bigger picture an outline for investment on the midstream sites for processing primarily capacity as we look into '13 and '14 and kind of what the outlook is on the big picture basically?
+177	adjudicated	2	But have you seen any negative impact from some of the channel changes with suppliers, particularly the IBM program, giving some product to Ingram and Tech Data? Have you seen any share issues yet or any issues with that move?
+178	adjudicated	1	And did you actually disclose the sale price of that particular store?
+179	adjudicated	3	And then secondly about, kind of for the second half of the year, do you expect biopharma to keep growing at this mid-teens rate or high single digit rate, let's call it, and the rest of the businesses to stay low single digit? Or is there something you see that makes you think that maybe diagnostic and healthcare, industrial or something there could get a little bit better in the second half?
+180	adjudicated	2	First, in the near-term, did you see any impact from the back-to-school tax-free shifts for the later Labor Day?
+181	adjudicated	3	Do you see the drop in oil prices as overall a positive or negative for Huntsman over the next year?
+182	adjudicated	3	Could you please address the tax rate issue? How long can you keep it at 25%? Will it go up in the future year?
+183	adjudicated	1	I presume you are talking about the ag business at the end of last year; is that right?
+184	adjudicated	3	But if you could just sort of frame what you're seeing in the field versus what you guys have sort of laid out or thought at your Analyst Day earlier this year?
+185	adjudicated	2	So what do you think explains your ability to sort of keep the market flattish? Is it just where you're at?
+186	adjudicated	3	Any, just, thoughts on that in general and potential impacts on Danaher as well as how should we think about kind of the two NewCo tax rates and any differentials there?
+187	adjudicated	1	Do you have the orders in hand that give you the confidence of there's a pick up in the back half?
+188	adjudicated	3	The current stock repurchase plan, you are over 75% kind of done, do you expect to complete that during this year or I know it goes through June 2017, any comments on the timing to complete?
+189	adjudicated	3	Can you talk about whether you're trying to marry up that offloading capacity in the Gulf Coast with onloading facilities in Canada, whether you feel confident that you're going to kind of be able to source that crude from Canada, given some competition from, I guess, onloading facilities in Alberta?
+190	adjudicated	2	I was wondering if you are seeing any of the services yet in your markets, and what are your thoughts as far as the services being a competitive threat to wireline?
+191	adjudicated	2	And are there any product types that may not be fully penetrated in certain alternative channels, I guess, is the other -- that might be an opportunity?
+192	adjudicated	1	And just as to clarify your goal is to grow at least 5% on average each year right?
+193	adjudicated	3	And if that's the case, I mean I'm assuming that would lead to higher potential artificial margin improvement, if you will, on future sales? Is that right?
+194	adjudicated	1	Is there precedent that you're aware of that if you do have to get a license amendment, whether you can operate while you're going to the filing process to get that amendment?
+195	adjudicated	3	How much of that do you believe is shorter term in nature or timing in nature versus how much do you think is more of a secular issue?
+196	adjudicated	4	Just kind of wondering if there's any updated commentary around Marcellus type curves in that context and how wells are hanging in relative to the curves you put up earlier this year and how we might think about that heading into 2014?
+197	adjudicated	2	I mean, because one of the -- my next question was how we should interpret the 14% sequential increase in backlog?
+198	adjudicated	1	Just curious as you are getting inquiries, a lot of inquiries on turbochargers, are you getting a lot of inquiries on your Torque-On-Demand, and your efficient all-wheel-drive systems?
+199	adjudicated	2	So what have we done to remedy the group sales issues we discussed in June?
+200	adjudicated	4	Can you talk about how you see that playing out a little bit further forward? Will there be a corn benefit at some point over the next 12 to 18 months, do you see that roll out?
+201	adjudicated	2	Can you give us some color on what your targets are and your timelines are for converting this traffic?
+202	adjudicated	3	Is that good for you guys from an M&A perspective? I mean, do you feel better about the acquisition environment than you did few months ago or worse?
+203	adjudicated	2	Why no change or move away from the 5% to 6% growth for this year?
+204	adjudicated	3	And turning to the EU, can you help us quantify the impact you expect to see as you adopt your shifts and go-to market strategy and as you increase the number of countries that will be transitioning, what that impact will go to?
+205	adjudicated	2	As you're getting close to completion of the first one, what's the opportunity set look like right now?
+206	adjudicated	3	Can you maybe just give us an update on kind of a sell-in versus the sell-through dynamics in beverage, especially around the coffee business?
+207	adjudicated	1	Okay, and then just last question just on the tunnel at Olympias, has the valve conditions in the rates of advance being been better now?
+208	adjudicated	2	How far along are you at this point in the evaluation process?
+209	adjudicated	3	I mean should we think about that being a regional EBIT mix perspectively given the new land openings?
+210	adjudicated	1	Is this a dry gas play in the deeper -- down the basement that you talked about?
+211	adjudicated	3	Do you think that, that has any impact longer term on the pricing structure of the business in general or the product itself?
+212	adjudicated	3	And as pricing unfavorably shifted that the losses increased with that plant, so I'm wondering if that dynamic can ever sort of reverse how it's occurred over the last 18 months?
+213	adjudicated	3	And then aftermarket sales, do they slant towards some of the precision ag products versus machine guidance? I mean are you seeing some uptake in that channel that you established?
+214	adjudicated	4	How do you guys just think about, I guess some of the cost synergies that you had originally targeted? How are those tracking?
+215	adjudicated	1	But you'd highlight a better organic inventory was the second point?
+216	adjudicated	2	What's implied in your 2014 guidance midpoint, as far as what that organic, kind of same tower revenue growth rate would be?
+217	adjudicated	3	I know you say broad-based, but any color, geography or end market-wise, as to the strong growth drivers?
+218	adjudicated	2	And whether there are additional opportunities to expand that further globally?
+219	adjudicated	2	Can you talk about some of the ongoing revenue driving initiatives there the brand awareness in the skews, the line reviews and things like that and what initiatives you have under way there?
+220	adjudicated	2	Can you just maybe talk about some of the leverage you've been pulling and talk about some of the current initiatives, like the shared services center?
+221	adjudicated	2	Are you worried about that at all?
+222	adjudicated	4	Can you talk about maybe the moving parts heading into the 2016 guidance on the volume front, how you think that's playing out and what some of the opportunities are that can drive you to the high end or above?
+223	adjudicated	3	If indeed that PE holds over time, what would be your rationale for not mimicking what Pfizer has done?
+224	adjudicated	2	But was there also any signs of sort of a spool up above and beyond that?
+225	adjudicated	2	And I understand the crude price movement was upward and/kind of stabilizing over the quarter, but anything else there that we should note?
+226	adjudicated	1	And just lastly, on the guidance, is our merch margins assumed to be flattish?
+227	adjudicated	2	Why the auction route on those versus bilaterals, which you've got on your other Brazil hydros? Was that necessary, given the nature of those?
+228	adjudicated	4	I guess from the DTC campaign that you had with TECFIDERA, what were some of the learnings that you took away for that campaign around the television form and why you chose to keep the print?
+229	adjudicated	1	But are there fewer offsets in the fourth quarter?
+230	adjudicated	2	I was hoping you could address tolerability, specifically the dropout rate in Phase III and the compliance in label expansion defined?
+231	adjudicated	3	But do you have any potential changes in your financing plans for that to fund the $1 billion over 2013 and 2014?
+232	adjudicated	2	I was hoping you could talk a little bit about the investments that you're making in WoodMac and what the magnitude is, like going from a 47% margin to a 40%?
+233	adjudicated	2	To help some of us with our commodity taxes, can you talk about how much exposure you have now to natural gas without the chlorine business?
+234	adjudicated	1	When did those projects kind of get completed just kind of wondering a little more detail on that?
+235	adjudicated	3	If we go back 10 years, this export problem related to the Grasberg mine, how would you like to have been dealing with the issues that we've dealt with in the last five year?
+236	adjudicated	3	And I was curious whether or not you anticipate filling that role and any organizational structures that you might contemplate to speed the company to getting to market?
+237	adjudicated	2	Can you maybe just put a little bit more color around the acceleration year-over-year?
+238	adjudicated	2	A couple of random questions, so could you perhaps breakout how much was the explicit impact of the 10% off deal that you did after the breach and right ahead of Christmas?
+239	adjudicated	3	I appreciate that the share trends at retail are improving, but based on the step down that we're seeing in implied third quarter shipments, even though there's new products coming out, it looks like you're working down an imbalance in new products and inventories that's been going on for the past two quarters, where do inventories stand now?
+240	adjudicated	1	Is that the goal to return to that level?
+241	adjudicated	1	Is that a livid (ph) IRR or just a straight project IRR?
+242	adjudicated	4	Could you talk about any other areas? You talked about financials, are there any other verticals that you are looking at and potentially building out as a sub-sector of one of your other segments?
+243	adjudicated	2	Are you seeing that in the form of just better IP rates or lower declines? And are you seeing that more in the first-year decline rate or in more of the longer and medium-term decline rate?
+244	adjudicated	2	Are you talking about the impact from these charges related to these programs that we're talking about?
+245	adjudicated	4	Can you help us understand how we should be holding you accountable, or thinking about your plans, or what's truly a special sauce, if you will, you're going to bring to the job?
+246	adjudicated	4	Is there anything you could share just high level that would help us think about the mix within that lease fleet?
+247	adjudicated	3	Can you give us any idea like revenue decline first half versus second half or anything to help us figure that out?
+248	adjudicated	2	And a lot of people have talked about that business trending down, how are you seeing that for you how does that part looks like?
+249	adjudicated	2	Just give us a color, you buy alumina in Kentucky and you buy alumina in Grundartangi, how are these set up? Are these connected to all-in-aluminum price or is this API index of just LME price? Can you give us some color?
+250	adjudicated	3	So as we think about the number last year around $300 million, as we look forward beyond this year and kind of ignore the carryover impacts, is that realistically kind of the real floor for how low CapEx would go?
+251	adjudicated	2	Can you talk about how that has changed maybe or evolved over the last few months, if at all?
+252	adjudicated	2	So, can you talk a little bit about that and how sustainable that is?
+253	adjudicated	2	Your comment that you are just going to see higher AMI shipments, can you just tell us what you're seeing in the markets generally and in terms of tenders?
+254	adjudicated	4	So how do you think about the positives and the negatives of already offering such a big Mexican platform and how did perhaps the Fresh Mex perform in tests?
+255	adjudicated	2	And can you just give a quick reminder of what your cash flow is extremely strong, you have a great free cash flow yield, what is your sort of position on NOLs and what is your effective cash tax rate now?
+256	adjudicated	1	Does the slower outgrowth outlook mean that you've got to get more acquisitive to fulfill that objective?
+257	adjudicated	1	Do you have start-up costs or learning curves, if you will, associated with bringing these plants online whether it be China, Europe, Korea over the next couple of quarters?
+258	adjudicated	1	Is it having any impact on the soybean crop at all?
+259	adjudicated	4	On Guitar Hero Live, in terms of sales expectations, is there any perspective you could provide for how we should think about this title?
+260	adjudicated	2	The pause in reserve power, can you elaborate a little bit more on that?
+261	adjudicated	1	Is that based on the borrowing base calculation?
+262	adjudicated	4	And I understand visibility is probably a bit limited into March, but it seems like most industry folks have talked about March maybe being a little bit of a tougher comp given the fare increased activity that started to take hold last year, so how should we be thinking about the March comp for JetBlue?
+263	adjudicated	4	Was there anything that particularly affected your business or what the outlook is for the fourth quarter?
+264	adjudicated	2	Could you restate the second part of your question then?
+265	adjudicated	4	Is that -- where is your sense of that kind of stabilizing? And is that the manifestation of kind of industry trends? How should we think of it?
+266	adjudicated	4	How do you think about that now? How you think about 2013?
+267	adjudicated	3	How do you balance your new lower cost structure with taking share and the ability to take share from two-thirds of the market domestically and putting more pressure on pricing?
+268	adjudicated	2	What keeps you in Washington and New Mexico instead of shopping those systems around?
+269	adjudicated	2	Do you believe that a significant success factor moving forward in this new med tech environment is the ability to have size or scale in diversification across various businesses?
+270	adjudicated	1	do you provide how many uncompleted wells that were at year-end '12 versus year-end '11?
+271	adjudicated	2	Yet another follow-up on repowering, can you provide a little additional color on how you selected those specific 327 megawatts out of the portfolio?
+272	adjudicated	2	On LiveTV, can you just talk to the way that the services -- how are you going to pay for the service in the future? Is it on an aircraft basis?
+273	adjudicated	1	How many years are we talking here?
+274	adjudicated	3	Just can you give us a little bit more granularity on the difference between the economics going the OTT route versus, what was historically more of a direct distribution model?
+275	adjudicated	4	Can you maybe talk a little bit about what you're seeing in terms of customer adoption of Fusion? What are you seeing in terms of uptake, at least within the installed base, upgrades, number of go-lives?
+276	adjudicated	3	I think you said that they're -- some of them are on annual contracts and do you guys have any impression of where those prices or those costs will end up for 2016, or I assume you;re seeking some relief, but do you think you're going to get it?
+277	adjudicated	4	You have built one of the most profitable companies in technology as measured by operating margins and I guess I just wanted to ask, how we should think about the puts and takes you see as related to Oracle's non-GAAP operating margin expansion as you look out over the next two to three years?
+278	adjudicated	1	Was that a $9 million retroactive tax gain, did I hear?
+279	adjudicated	2	So can you give us some help in sizing those businesses, so we can make a judgment on how important MDI is, as you look forward, and that the penalty from the turnaround in PO/MTBE would be for 2015?
+280	adjudicated	2	Why don't you add a little bit of color here?
+281	adjudicated	2	Can we get an update on how the costs are doing at Leeville?
+282	adjudicated	3	And are you seeing other opportunities in vertical markets then, or do you think you would by virtue of developing these VAR relationships?
+283	adjudicated	2	Are you guys seeing much evidence of that?
+284	adjudicated	2	And then on the labor comment, is it across stores that you're having trouble filling seats, I mean, do you have empty positions you're looking to fill?
+285	adjudicated	2	Am I thinking about that right from the good will impairment you recorded?
+286	adjudicated	3	Would you expect that to go up?
+287	adjudicated	3	Do you find the second hand purchase opportunities, especially for the slightly older tonnage that maybe in the higher marginal cost carriers, does that become more attractive going forward?
+288	adjudicated	4	Has -- where would you like to see your leverage be as we get into later parts of the cycle and do you see the opportunity to lower your absolute debt levels from here?
+289	adjudicated	3	And in terms of your digital operations, would you expect that this business would be similar to television in that?
+290	adjudicated	2	Is there some level of motorcycle financing where you guys get uncomfortable with bearing sort of most of those loans or where it starts to constrain sales or is there sort of no bound on that?
+291	adjudicated	2	Could you just give us a breakdown of how much of your business volume, I guess, really is in residential versus nonresidential versus industrial versus municipal?
+292	adjudicated	4	What are you seeing out there in terms of valuations, and with your stock down this much sort of where does the focus on capital allocation look to you to be directed?
+293	adjudicated	3	Do you think you can still reach those targets either on the gross margin and on the SG&A by the time you reach the fourth quarter?
+294	adjudicated	3	And with the acquisition of Hillcrest, the investments in FM translators, I was wondering, is that view changed for this year? And maybe are we shifting more of the debt pare-down toward -- more heavily influenced in 2017?
+295	adjudicated	1	Is that still a good number to model?
+296	adjudicated	4	And then finally, now that you're anniversarying Door-Stop in the UK, at level exchange rates, what sort of growth expectations would you have for that overall market?
+297	adjudicated	2	You guys, are you guys downshifting the operated Eagle Ford or is that just really the non-op that's allowing you to put a little bit more capital toward the Permian and the Bakken?
+298	adjudicated	1	But in the past, where there have been instances of these sorts of taxes, what has been the prior volume dropoff?
+299	adjudicated	3	When do you think the destocking will end? And do you think we'll see normalized demand at any point during the back half of the year?
+300	adjudicated	2	What are you seeing as far as scrap collection behavior at these sorts of price levels particularly after this last October drop?
+301	adjudicated	2	Have you seen any changes year-to-date?
+302	adjudicated	3	So, what is that longer opportunity for Cuno in the portfolio, when you've hinted in the past you might be interested in doing some water investments and how do you see that opportunity?
+303	adjudicated	4	Can you speak to the variability of the cost structure, how much you could take out if you had to adjust because the markets turned against us in ways we don't expect?
+304	adjudicated	2	Can you kind of flush out, number one, what's your seeing in terms of meter demand and meter placements?
+305	adjudicated	2	What about the other side, the negative side?
+306	adjudicated	2	So is there a contract of size that, that you've lost or something like that because of M&A, could you provide some color there?
+307	adjudicated	3	Do you see volumes and, in the near term, is it positive that you guys see a sequential uptick form third quarter to fourth quarter, do you imagine that will be the same sort of trend sort of going into your fourth quarter to first quarter or do you see a sequential sort of downtick going to more seasonality?
+308	adjudicated	2	And if you can give us an update, as well, on the accessories part of the business?
+309	adjudicated	3	And then I will add last question, what is the expectation for Henderson in 2015 for revenue?
+310	adjudicated	3	Any color as to how you think those properties seemed to have perform versus your original expectations, given that it was quite a while before you could actually close?
+311	adjudicated	2	What longer-cycle types of businesses are we talking about?
+312	adjudicated	3	On this quarter, how do you accelerate traffic online, and anything to account for the moderation that we saw over the last three months?
+313	adjudicated	2	Can you tell me what your current well spacing assumptions are for your 2015 production projections in Eagle Ford?
+314	adjudicated	4	Firstly on cash flow for the quarter, can you just help me get as close as I can to what you think the ongoing cash generation, what the business will be at $60 oil and how representative this quarter was of the ongoing cash flow that you think you'll make at that kind of price level?
+315	adjudicated	2	What specifically happened there?
+316	adjudicated	1	How much did Japan cost you in this quarter, the outage?
+317	adjudicated	3	Can you give us some sense as to, obviously you talked about being able to cover the dividend in future years, so can you talk about the moving parts from fiscal 2015 to fiscal 2016 in terms of free cash, and how much higher one can reasonably expect your cash flow to be next year?
+318	adjudicated	2	And then I think I missed the endpoint that you talked about earlier, so if you can just repeat that, that would be great?
+319	adjudicated	2	Can you give us a sense of what that means for your pricing in 2015?
+320	adjudicated	1	The rejected gas, is that coming out maybe as 1,100 BTU? And does that present any issues on the midstream side, especially with Anadarko doing the same thing?
+321	adjudicated	3	On Cerro San Pedro, the grades is up and the recovery is down, is that going to continue for the course of the year, how is the trend in terms of grade and recovery?
+322	adjudicated	2	And then on -- you talked about Stonewall quite a bit, can you help us get a better idea of what the net cost is for you all to move gas on that system?
+323	adjudicated	1	Is that what you were suggesting, is you've got an unusually large volume of contracts coming up for renewal?
+324	adjudicated	3	Should you anticipate that to move back up in the fourth quarter?
+325	adjudicated	3	And then my follow-up just maybe on 2017, Bill, and just the previous thought on staying kind of within cash flow or cash flow neutrality, is that still the goal as we think about how we should be forecasting CapEx for next year?
+326	adjudicated	3	What do you think is going to drive your ability to add customers? I know you're focused on Cogent customers, but what do you think the turning point is going to be to kind of leverage those expenses and layer on some incremental revenue there?
+327	adjudicated	3	I'm just wondering if trends persist are you expecting the same type of decrementals for the second half of the year?
+328	adjudicated	4	Could you talk a little bit about the competitive dynamics in that key application processor versus some other areas there that you guys might have less competition and more differentiation?
+329	adjudicated	1	Are they running across Facebook and Instagram?
+330	adjudicated	2	What do you expect your level of inventories to be exiting the December quarter?
+331	adjudicated	2	What's the rationale for buying back stock rather than increasing dividend?
+332	adjudicated	2	I got part of that, but if you could repeat your question I want to make sure we get it?
+333	adjudicated	4	If any of you could share some thoughts of within the business model, which end markets do you think CVG has got the strongest competitor position and where there's places that you may need to bolster it someway?
+334	adjudicated	3	What's the timeframe under which we should be expecting kind of the full benefits to flow through for both Hawesville and Sebree if you could?
+335	adjudicated	1	You guys are still active in future years?
+336	adjudicated	2	Could you give us an update on the progress you have made around the facility consolidation efforts that are planned for the year?
+337	adjudicated	2	Are there more opportunities like those that you're working through in your front log and what sort of time horizon should we think about those orders as delivering across?
+338	adjudicated	3	You're below your run rate on CapEx in Q1, and I know you reiterated for the year, but curious if you're giving yourself flexibility in case the second half doesn't prove out to be as strong as you guys are anticipating?
+339	adjudicated	1	So I guess I'm wondering, first, what that average block hour time was in the second quarter?
+340	adjudicated	3	But as we look to the second half of the year, do you feel even with just the front-end activity that you're seeing, which seems to be picking up, that, that might be enough to start hitting maybe the $2 billion of clips per quarter?
+341	adjudicated	4	Are you seeing any dynamics in terms of differential gross margin in a given region and how should we think about that?
+342	adjudicated	1	And if I heard you correctly, your equity needs have been revised to $150 million from $250 million?
+343	adjudicated	2	And then just lastly for me, have you made any infrastructure changes to your business in anticipation of the Gen-Probe deal, whether it be sales force cuts, shutting some R&D programs, et cetera?
+344	adjudicated	3	And is there a different feel to the market given what we've been seeing from the overall industry data the last six weeks to eight weeks, or is it more a continuation of how you've been experiencing the market year-to-date?
+345	adjudicated	2	What's kind of the base case modeling assumption you guys are thinking with respect to how we should be thinking about the increases on a go forward basis as we model out 2017/2018 and 2019?
+346	adjudicated	2	And have you seen any improvements to utilization stabilization as we went through the fourth quarter?
+347	adjudicated	4	As you're looking at the competitive landscape now that the major consolidations are done, how do you see this changing the way you're thinking about your capacity over the next year? So have you already planned for this?
+348	adjudicated	3	You mentioned that the corporate overhead was higher due to the higher investment spending and the higher depreciation expense from the purchase of the building, it looks like it's about 10 million higher year-on-year, is that a quarterly run rate we should expect going forward or should it moderate from here?
+349	adjudicated	2	So was that factored into the timing of the dividends or the timing of the announcement?
+350	adjudicated	1	And that'd be stabilizing oil production at Q4 levels, but not total production?
+351	adjudicated	2	What's the timeline for the open seasons there?
+352	adjudicated	4	Given all the puts and takes there and what you're seeing in the commodity market, how should we think about that line over the next year?
+353	adjudicated	2	The follow up question I had is, are there any particular call outs you can offer about the strength in the last two weeks of the quarter?
+354	adjudicated	3	Can you talk about it a little bit, maybe go down a little bit what factors are driving relative to our expectations to better performance there, what you're doing differently or better in the past?
+355	adjudicated	2	Can you talk a little bit about what the drivers were at SDG&E, was it all just AFUDC, was there a significant change in the O&M level, and significant change in the cost structure, et cetera?
+356	adjudicated	2	And I guess to tie it back to the dividend discussion, does it any way hang over that discussion as well or do you see it as more of an isolated risk rather than part of the ongoing capital deployment strategy?
+357	adjudicated	2	Could you give us a little sense of what's going on there since it performed above the chain average? Is it national brands?
+358	adjudicated	2	Can you talk a little bit about the results of your sales team reorganization, and just give us a little bit more color on how this team is better equipped now to capture some of the organic growth opportunities that you mentioned earlier?
+359	adjudicated	4	First and foremost, as you talk about using a little bit more of your direct -- using the balance sheet a little bit more for direct play in Macao, could you talk us through the thinking in terms of credit extension and doing a little bit less with the junkets?
+360	adjudicated	2	And do you think you should have a price down there, because last time we all kind of got hand rung about what's going to go on in Argentina, Venezuela, it seemed like everybody is kind of priced through it? Is that still an option now or is that kind off the table?
+361	adjudicated	4	And a follow-up question, as consumers continue to migrate more online to buy their products, how does your delivery of innovation change with that dynamic of consumers buying more online?
+362	adjudicated	2	Is it going to be one of those things where your customers ask for it, and then you buy it sometime after that? Or is it going to be where you're going to have a fleet of 50 or 100 or so of these 400-horsepower units on hand?
+363	adjudicated	2	On KPC, you mentioned new businesses, are those new products of an existing value stream or new businesses in general, new markets?
+364	adjudicated	2	I was wondering if maybe you could give us some EV details by geography?
+365	adjudicated	4	So how did you end up reaching it probably earlier than what people were thinking?
+366	adjudicated	2	And then also, is -- are there any milestones in your legal dispute that come before the FDA action date for BYDUREON?
+367	adjudicated	1	Is that correct roughly? I mean of you adjust it for the Venezuelan and everything, zero growth next year?
+368	adjudicated	3	So are you expecting to pull something off in the fourth quarter or more of the same?
+369	adjudicated	3	How would you guys handicap the likelihood of that scenario that you outlined in your slide deck playing out?
+370	adjudicated	3	But now with the structural changes, with the change in Google, is it as an attractive a business longer term?
+371	adjudicated	4	Please don't tell me you think that new home sell numbers are good data points, because new sells and the rest of the nation as may showed, I mean it's kind of silly but do you really don't believe those numbers do you?
+372	adjudicated	1	On the liquidity front, do you have a target or a range that you think you're going to be remain in for the year, on a quarterly basis?
+373	adjudicated	1	It sounds like priorities are organic, then possibly projects and last on the list sort of whole portfolio company type things?
+374	adjudicated	2	And so, I was just curious what that 70% meant in terms of utilization or how you're thinking about that number, what it's related to?
+375	adjudicated	2	What is your assumed ROE at the regulated businesses?
+376	adjudicated	3	Should we view or I guess how do you guys view the growth opportunity set in that market?
+377	adjudicated	3	Is that the right way to think about your business once we start to see volumes increase on a year-over-year basis? And if so, is that incremental margin framework only achievable at coal environment that's at least flat or stabilized?
+378	adjudicated	4	And then how are you thinking about the progression of asphalt mix pricing throughout the year?
+379	adjudicated	3	The backlog of uncompleted wells is sitting in the low 40s, where would you expect that to get to by the end of the year?
+380	adjudicated	1	Do you have purchase accounting charges in Test & Measurement?
+381	adjudicated	3	Is there any way that you can kind of ballpark the incremental margins on the organic volume growth, just so we can get a sense of, you know what I mean, how strong of a component that is to the overall improvement?
+382	adjudicated	4	Can you talk about just kind of the valuations and how those are looking out in the market now versus what you've seen over the last few years? Are people starting to get a little bit more rational?
+383	adjudicated	1	Have you budgeted any equity issuance to cover third-party liability costs that may not be recovered under your insurance policy?
+384	adjudicated	3	What is it that needs to happen for that digital shift to occur? Do you need more rights? You just need more devices in the market?
+385	adjudicated	2	Any new hedges you put on beyond and ones you put on back in August?
+386	adjudicated	2	What is the pace of that restructuring cash use for the balance of the year, is your expectation?
+387	adjudicated	4	What areas are kind of the focal points for you? Are you focusing on energy and aerospace-related assets? Or what's the mindset on that?
+388	adjudicated	3	When we get to the end of the year, networking capital should be hopefully $40 million positive on the cash flow statement?
+389	adjudicated	2	Well then, how far away are we from actually seeing those kind of margins?
+390	adjudicated	2	First of all, just looking at some of the Asia commentary, can you talk a little bit more in detail about the high volume mix?
+391	adjudicated	4	Just wondering if you could remind us what your content differential is on four wheel drive versus two-wheel drive and as you have seen sort of this -- your historical performance around gas prices being incredibly low, is this kind of a mix that might stay at this level going forward?
+392	adjudicated	3	And is there a thought to reevaluate that given how if the market persists at this sort of level for a sustained period?
+393	adjudicated	2	Shouldn't that create some headroom for at least some incremental CapEx flow with your prior guidance?
+394	adjudicated	2	How often you guys evaluate the portfolio in terms of thinking about any potential new exits that you might be thinking for 2015 that aren't necessarily in the existing core sale outlook for 2015?
+395	adjudicated	2	And I guess my question is, is that a function of expanding energy orders with perhaps, say, some of these big energy companies that just take longer to pay? Is this the derivative of supporting growth?
+396	adjudicated	1	And are you already doing that?
+397	adjudicated	4	At the annual sales meeting, some of the reasons for the higher spending this quarter, how should we think about OpEx for the remaining of 2015?
+398	adjudicated	2	Are you seeing wireless become a bigger part of your story in terms of actual time spent watching, especially overseas?
+399	adjudicated	3	So can you give a little more color on what you would think your expected win rate is?
+400	adjudicated	1	And the storm cost, I think you said $2 million to $4 million or $4 million to $6 million, what did you say?
+401	adjudicated	3	Is there something we're missing? I know renewable is supposed to be weak, but is there something like, is DIRECTV the other bogey or is there a level of conservatism baked in?
+402	adjudicated	3	Just on the antenna roadmap to 5G, you guys expect to have to increased R&D efforts, your tuck-in acquisitions, and just generally are things getting more competitive as you think about 5G antennas?
+403	adjudicated	2	And then lastly, could you talk about your new advertising campaign and what the incremental marketing expenses could be?
+404	adjudicated	2	Should we be thinking about that? Can you just tell us quarterly is it evenly distributed, is it more first half, second half?
+405	adjudicated	3	And then on the carbon pitch side, are there any areas or regions where you're seeing particular pressure on the pricing or are there other areas where you're seeing more favorable pricing?
+406	adjudicated	3	I am just interested in knowing if how you guys think about deploying capital into buying pre-FID barrels versus putting more capital into exploration with that or anything you would be interested in doing?
+407	adjudicated	3	I guess what I'm trying to get add is I guess do you see any room for further downside just outside of the FX headwinds?
+408	adjudicated	4	So can you discuss what the long-term, as more of the pharmaceutical market and the value of the pharmaceutical market moves to specialty drugs? Is that sort of the underlying or part of the underlying reason for this agreement long-term strategically?
+409	adjudicated	2	As far as our guidance, is there a meaningful impact there?
+410	adjudicated	2	So it's like -- I guess what I'm getting at is just the difference between the -- the difference in the differentials, the new change in production, is that what offsets this?
+411	adjudicated	3	Is this something that will continue at its current pace into next year?
+412	adjudicated	1	So 70, 80 is kind of the base you are talking about?
+413	adjudicated	4	And can you maybe discuss the seasonality in the business and beyond, of course, the Q2 maintenance and how Dresden might impact that?
+414	adjudicated	2	Just want to clarify on that earlier question regarding market share, should we assume that your guidance does imply a little bit share gain at the back half of the year?
+415	adjudicated	3	Your sort of optimism or your upbeat note on Oil & Gas, within your mix, would you say that market share gains wise you stand pretty well but the fab yards?
+416	adjudicated	2	Because part of the test is to inform us, as we roll this out to more markets in the fall, is how exactly do you position us? Why would I want to reserve something in-store?
+417	adjudicated	1	Maybe can you ballpark it, you have given us, I think it was 14 million or 15 million of EBITDA?
+418	adjudicated	3	Just on a separate question, do you envision DeLorme effect to continue for a while?
+419	adjudicated	3	How are you asking your customers to pay for Volly? Is it sort of getting Volly into larger contracts right now as an add-on so that you can maintain a relationship with the transition or is there a separate charge for it?
+420	adjudicated	1	Are we delivering what we promised to our customers?
+421	adjudicated	2	How much of the increase is related to Stellite?
+422	adjudicated	3	Could Brazil eventually be your best margin business or up there with the other businesses once it's kind of at a bit higher volume rates going forward?
+423	adjudicated	2	The growth that you're anticipating for the second half of the year in the Crane business, is that based on just macro and sort of historical trends?
+424	adjudicated	2	I mean, do you continue to see some encouraging trends there?
+425	adjudicated	3	The question for you is, are you still expecting strong growth in this sub-segment this year?
+426	adjudicated	1	Is that your expectation as well?
+427	adjudicated	3	Yes I guess what I'm thinking about the is if we look forward into 2016 you won't have that 21 days, so how much financially will we get back from that all of the things being equal?
+428	adjudicated	2	Could you just dive in a little bit more, was there something unique that was going on that's driving this increase?
+429	adjudicated	3	Where do you think your season pass works down the road?
+430	adjudicated	2	I think with respect to Lagunas Norte, why don't you have a view on Lagunas Norte going forward?
+431	adjudicated	3	If you could just comment on what's going on there; is it the projects that are in backlog, the burn rate is lower than what you would have thought?
+432	adjudicated	4	From a bookings and backlog perspective, can you just give us some color on demand patterns by geography here in the September quarter?
+433	adjudicated	2	How should we think about inventory pacing through the second quarter as you move into some of the other movie releases?
+434	adjudicated	2	I was hoping, you touched on it a little bit earlier but can you just give us a little more detail and an update on backlog mix as it relates to valves versus line pipe?
+435	adjudicated	2	Should we think about business as growing going forward and maybe the new benchmark is not flat?
+436	adjudicated	3	So, are we past the worst of the comps there? How do we reconcile that type of move with the pretty severe rate decline that's implied in your maintained guidance for the year?
+437	adjudicated	2	Could you give us a little color on where in emerging markets you're gaining traction?
+438	adjudicated	4	What's the plan proposed to A-17 well?
+439	adjudicated	4	You sound positive on the overall industrial in that market, yet I think organic was down in the quarter, I don't know if that was a carryforward of the issues last quarter, but just why are you more bullish on that business here into the back half of the year, or I guess the end of the year and into '15?
+440	adjudicated	2	Can you talk about maybe how much overall revenue impact it truly has been?
+441	adjudicated	1	Can you repeat on the water solutions business, what the volumes were?
+442	adjudicated	4	Do you have that booking or the expectations of power quality, what's driving that profile, big profile step-up in the second half versus first half?
+443	adjudicated	1	But the number of tons that you sell has not materially changed?
+444	adjudicated	2	So is it fair to say that hopefully, we're getting close to the point where the inventories in the channel you would think are reasonably balanced or am I misreading that?
+445	adjudicated	4	What impact do you see on the commodities side there for crude oil prices and nat gas prices, if you're comfortable sharing thoughts there and what impact that could have on Plain?
+446	adjudicated	1	So is that sustainable?
+447	adjudicated	2	Why do you think that's the case?
+448	adjudicated	2	Can you talk about the degree to which those new products are seeing uptick in the clinical segments?
+449	adjudicated	3	Do you think third quarter will be sort of fully clear or will you be fully back up sort of in the fourth quarter?
+450	adjudicated	4	So can you just help us sort of bridge the gap between the 2 in terms of the outlook?
+451	adjudicated	1	So is it still some purchase accounting that you're dealing with over there?
+452	adjudicated	2	Can you just talk about what the main drivers causing those lower year-over-year comparisons?
+453	adjudicated	3	If that those huge numbers that talked by Apache did not materialize and end up to be smaller, you still won't willing that you have to integrate model that including the ownership in the resource?
+454	adjudicated	3	With respect to the $70 million in redeployed spending, how will you measure success?
+455	adjudicated	4	What's going on there?
+456	adjudicated	3	How might that impact your demand trends there, if at all?
+457	adjudicated	3	And then just any sense as just to sizing that success fee so we get a sense of what that impact would be as we think about Q4?
+458	adjudicated	4	It just seems that the SG&A side, the cost control has been good, how much more can be really pull out on the SG&A as you think about next year and how much do you have to rely I guess on additional acquisitions maybe to get more leverage on the SG&A side?
+459	adjudicated	3	And then just the last question is, just in terms of the overall pricing, do you think that sort of firms up going forward, or are you thinking that, that will still be under pressure for the next couple of quarters?
+460	adjudicated	2	I was hoping I'd just get a better understanding of what the spending pattern has been and then what's going to happen in the first quarter?
+461	adjudicated	1	And I was also wondering, have you spoken to the rating agencies at all regarding all these issues that have taken place over the last few months?
+462	adjudicated	1	So like, is the first quarter disproportionately high versus the year or you just divide the $50 million by 4?
+463	adjudicated	1	No, no, the one-time cost, because I think your free cash flow definition is excluding the cash impact of FIP, right?
+464	adjudicated	4	Could you talk a little bit about the competitive dynamics in that key application processor versus some other areas there that you guys might have less competition and more differentiation?
+465	adjudicated	2	In which verticals are they being delayed?
+466	adjudicated	3	So not really guidance but the way that it worked in the past has been more backend loaded, so I was wondering if you could just give us a little bit more color on sort of how this year looks, and if that's change versus other years?
+467	adjudicated	1	And then moving to the criteria, I guess I just want to be clear are you seeing any payers government or non-government that are already using the criteria?
+468	adjudicated	1	Does the weakness there slow that down?
+469	adjudicated	2	What accounts for that change?
+470	adjudicated	2	Just curious on just your OE bookings, what kind of magnitude are you looking at in terms of potential pricing declines in that business today?
+471	adjudicated	3	So I guess what I'm trying to ask is, do you expect the gap that you've normally been outpacing PC shipments to kind of the gap to widen similar to what we saw this quarter versus what historicals might tell us?
+472	adjudicated	2	And secondly, I just wanted to know where we stand today?
+473	adjudicated	2	And then, perhaps, you'd like to comment on the fit between sclerostin and Prolia?
+474	adjudicated	2	I guess, was this more due to competitive activity or just an effort to drive traffic at your stores, if you can talk a little bit about why that resulted?
+475	adjudicated	1	Just within your portfolio of North American businesses and the various lines and the markets you've got there, do you watch one or two or three as particular leading indicators?
+476	adjudicated	1	Did that continue in the second quarter?
+477	adjudicated	2	Just to follow-up on question on the repair tax, why would that not be an adjustment to rate base?
+478	adjudicated	1	Do you break out how much of the engines and parts are yet, sorry if I missed that, in the inventory?
+479	adjudicated	4	So are you -- how does that work out? Are you seeing more deals coming your way, but they're just asking too much money? Or how do you see this market kind of evolving right now?
+480	adjudicated	1	Can you provide the 16-bit business, 32-bit business analog?
+481	adjudicated	3	But how much of that was just attributable to the weaker military and oil and gas business versus what may have been in that number in terms of structural cost takeouts?
+482	adjudicated	4	Can you talk a little about your plans for the AWS-3 auction and the incentive auction, how you fund both of these and a little bit about the reported $10 billion Spectrum JV with Sprint?
+483	adjudicated	2	Is that just because you want to give confidence or get confidence that there's enough time to separate between the curves? Is that what you're thinking?
+484	adjudicated	2	And then in terms of thinking about the system rollouts that you guys have been talking about for a number of years, are we essentially done with that now that we've finished Europe? What else needs to happen?
+485	adjudicated	4	You called out pricing earlier in your commentary and I wonder how important at this point is pricing, have you been trying to implement new pricing strategies within RBI and if that's one of the more difficult things to implement to get the culture change?
+486	adjudicated	2	Any update on potential timing for that?
+487	adjudicated	3	I was wondering in your view, with the way the market has changed, do you believe the discount rate for gold companies is changing?
+488	adjudicated	2	Can you size that for us where you are now on total digital subs in terms of a hard number?
+489	adjudicated	1	Larry, just to clarify that last point, the 55% is where you are today, or that's where you would expect to be in 2016?
+490	adjudicated	1	Have you -- I guess, at this point, have you negotiated exchange contracts? If you have, can you give us a sense of what percentage maybe of the book you've maybe negotiated?
+491	adjudicated	2	Also, can you describe some of the key DPP-4 market dynamics such as how long patients typically remain on DPP-4 therapy before adding therapies or switching to other therapies?
+492	adjudicated	1	And what was the core for Industrial in the quarter?
+493	adjudicated	2	So I was just wondering, as you look at the portfolio, are there other opportunities that you can kind of cure the portfolio a little bit more value as you look longer term?
+494	adjudicated	3	Do you expect to sort of see those same trends this year as well?
+495	adjudicated	2	What gives you confidence that you can hit those numbers?
+496	adjudicated	1	Are those splitters generating positive cash flow in the current commodity price environment?
+497	adjudicated	2	Are you seeing any incremental impact from some of the small business initiative or an effort in the intel community to reduce the contractor content?
+498	adjudicated	2	And I guess because of that there has been no kind of behind the scenes conversations from them, kind of prodding you to short that metric?
+499	adjudicated	3	So does that mean in October quarter you think that the mix is going to shift more to legacy kind of routing and switching versus the remaining I guess call it advanced portfolio?

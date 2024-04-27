@@ -289,7 +289,8 @@
 214	adjudicated	4	How do you guys just think about, I guess some of the cost synergies that you had originally targeted? How are those tracking?
 466	adjudicated	3	So not really guidance but the way that it worked in the past has been more backend loaded, so I was wondering if you could just give us a little bit more color on sort of how this year looks, and if that's change versus other years?
 121	adjudicated	3	So on Slide 21, where you show the contracted and uncontracted capacity, should we assume that as you roll forward in time, you'll contract that uncontracted capacity?
-499	adjudicated	3	So does that mean in October quarter you think that the mix is going to shift more to legacy kind of routing and switching versus the remaining I guess call it advanced portfolio?20	adjudicated	3	What do you think is going on right now as we report to you and volatility in energy prices? I mean, do you expect to see significant inventory destocking taking place?
+499	adjudicated	3	So does that mean in October quarter you think that the mix is going to shift more to legacy kind of routing and switching versus the remaining I guess call it advanced portfolio?
+20	adjudicated	3	What do you think is going on right now as we report to you and volatility in energy prices? I mean, do you expect to see significant inventory destocking taking place?
 188	adjudicated	3	The current stock repurchase plan, you are over 75% kind of done, do you expect to complete that during this year or I know it goes through June 2017, any comments on the timing to complete?
 71	adjudicated	2	So is it safe to say that it's almost certainly a go; it's just a matter of size now?
 106	adjudicated	2	Can you talk a little bit about the benefits that came through this quarter?

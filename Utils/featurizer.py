@@ -2,6 +2,7 @@ import nltk
 import re
 from nltk.tokenize import word_tokenize
 import spacy
+import random
 
 nltk.download('punkt')
 #!python -m spacy download en_core_web_sm   # Need to download this separately
@@ -15,6 +16,17 @@ def binary_bow_featurize(text):
         word=word.lower()
         feats[word]=1
             
+    return feats
+
+def bow_featurize(text):
+    feats = {}
+    words = nltk.word_tokenize(text)
+    for word in words:
+        word=word.lower()
+        if word in feats:
+            feats[word] += 1
+        else:
+            feats[word] = 1
     return feats
 
 def get_length(text):
@@ -91,16 +103,49 @@ def pos_tag(text):
             feats[pos_tag] += 1
     return feats
 
+def bigram(text):
+    # Here the `feats` dict should contain the features -- the key should be the feature name,
+    # and the value is the feature value.  See `simple_featurize` for an example.
+    feats = {}
+    # BEGIN SOLUTION
+    words = nltk.word_tokenize(text)
+    trigrams = [' '.join(tg) for tg in list(nltk.bigrams(words))]
+    # END SOLUTION
+    return feats
+
+def bow_featurize_vb_adj(text):
+    feats = {}
+
+    words = nltk.word_tokenize(text)
+    words_tags = nltk.pos_tag(words)
+
+    for word_tag in words_tags:
+        word = word_tag[0]
+        tag = word_tag[1]
+        word=word.lower()
+        if tag in ["VB","VBD","VBG","VBN","VBP","VBZ","JJ","JJR","JJS"]:
+            if word in feats:
+                feats[word] += 1
+            else:
+                feats[word] = 1
+    return feats
+
 def combiner_function(text):
     # Here the `all_feats` dict should contain the features -- the key should be the feature name,
     # and the value is the feature value.  See `simple_featurize` for an example.
     # at the moment, all 4 of: bag of words and your 3 original features are handed off to the combined model
     # update the values within [bag_of_words, feature1, feature2, feature3] to change this.
     all_feats={}
-    features_used = [get_length, binary_bow_featurize, question_word_diction, pos_tag,
-                    flesch_kincaid_grade_level, calculate_syntactic_complexity]
+    features_used = [bow_featurize, get_length, question_word_diction, #bow_featurize_vb_adj, pos_tag, #binary_bow_featurize,pos_tag, 
+                    calculate_syntactic_complexity, flesch_kincaid_grade_level] #flesch_kincaid_grade_level, bigram]
     #print("Used features: ")
     #print(", ".join(map(str, features_used)))
     for feature in features_used:
+        #dice = random.randint(0, 1)
+        #if dice == 0:
         all_feats.update(feature(text))
+        #print("used: ")
+        #print(str(feature))
+        #else:
+        #    continue
     return all_feats

@@ -103,16 +103,6 @@ def pos_tag(text):
             feats[pos_tag] += 1
     return feats
 
-def bigram(text):
-    # Here the `feats` dict should contain the features -- the key should be the feature name,
-    # and the value is the feature value.  See `simple_featurize` for an example.
-    feats = {}
-    # BEGIN SOLUTION
-    words = nltk.word_tokenize(text)
-    trigrams = [' '.join(tg) for tg in list(nltk.bigrams(words))]
-    # END SOLUTION
-    return feats
-
 def bow_featurize_vb_adj(text):
     feats = {}
 
@@ -129,6 +119,71 @@ def bow_featurize_vb_adj(text):
             else:
                 feats[word] = 1
     return feats
+
+
+# Owen
+# 1) Afinn sentiment (give a sentiment score from -7 to 7): No effect
+from afinn import Afinn
+def afinn_sentiment(text):
+    # Here the `feats` dict should contain the features -- the key should be the feature name,
+    # and the value is the feature value.  See `simple_featurize` for an example.
+    feats = {}
+    afinn = Afinn()
+    sentences = nltk.sent_tokenize(text)
+    for i, sentence in enumerate(sentences):
+      feats[i] = afinn.score(sentence)
+    return feats
+
+from collections import Counter
+# 2） Bigram: No effect
+def bigram(text):
+    # Here the `feats` dict should contain the features -- the key should be the feature name,
+    # and the value is the feature value.  See `simple_featurize` for an example.
+    feats = {}
+    words = nltk.word_tokenize(text)
+    trigrams = [' '.join(tg) for tg in list(nltk.bigrams(words))]
+    feats = dict(Counter(trigrams))
+    return feats
+
+# 3) Vader sentiment (give 4 features 'pos', 'neg', 'neu', and 'compound'): No effect
+from nltk.sentiment import SentimentIntensityAnalyzer
+nltk.download('vader_lexicon')
+def Vader_sentiment(text):
+    feats = {}
+    feats["pos"] = 0
+    feats["neg"] = 0
+    feats["neu"] = 0
+    feats["compound"] = 0
+    sentences = nltk.sent_tokenize(text)
+    sia = SentimentIntensityAnalyzer()
+    for sentence in sentences:
+        score = sia.polarity_scores(sentence)
+        feats["pos"] += score["pos"]
+        feats["neg"] += score ["neg"]
+        feats["neu"] += score ["neu"]
+        feats["compound"] += score ["compound"]
+    return feats
+
+# 4) LIWC score (give various features such as counts of "pronoun", "i", "ppron", etc) :lower accuracy
+import liwc
+def liwc_pos_type(text):
+    # Here the `feats` dict should contain the features -- the key should be the feature name,
+    # and the value is the feature value.  See `simple_featurize` for an example.
+    feats = {}
+    words = nltk.word_tokenize(text)
+    dictionary, category_names = liwc.read_dic("LIWC2007_English100131.dic")
+
+    for word in words:
+        word=word.lower()
+        if word in dictionary:
+            for category in dictionary[word]:
+                if category in feats:
+                    feats[category] += 1
+                else:
+                    feats[category] = 1
+
+    return feats
+
 
 def combiner_function(text):
     # Here the `all_feats` dict should contain the features -- the key should be the feature name,
